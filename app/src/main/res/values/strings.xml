@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">TripProject.v2</string>
+    <string name="hint_user_id">User ID</string>
+    <string name="get_custom_token">Get Token</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="send_link">Send Link</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="loading">Loading…</string>
+    <string name="custom_token">Custom Token</string>
+    <string name="signed_in">Signed In</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="token_null">Token: null</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="start_phone_auth">Start</string>
+    <string name="verify_phone_auth">Verify</string>
+    <string name="resend_phone_auth">Resend</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="hint_verification_code">Verification Code</string>
+    <string name="status_code_sent">Code Sent</string>
+    <string name="status_verification_failed">Verification failed</string>
+    <string name="status_verification_succeeded">Verification succeeded</string>
+    <string name="status_sign_in_failed">Sign-in failed</string>
+    <string name="instant_validation">(instant validation)</string>
+
+    <string name="firebase_status_fmt">Firebase UID: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="google_title_text">Google Sign In</string>
+
+    <string name="facebook_status_fmt">Facebook User: %s</string>
+    <string name="facebook_title_text">Facebook Login</string>
+
+    <string name="emailpassword_status_fmt">Email User: %1$s (verified: %2$b)</string>
+    <string name="emailpassword_title_text">Email and Password</string>
+
+    <string name="passwordless_status_fmt">Email User: %1$s (verified: %2$b)</string>
+    <string name="passwordless_title_text">Passwordless Sign In</string>
+    <string name="status_email_not_sent">Send link to your email to get started.</string>
+    <string name="status_email_sent">Link sent, check your email to continue.</string>
+    <string name="status_link_found">Link received, enter email to sign in.</string>
+
+    <string name="phone_title_text">Phone Number</string>
+
+    <string name="twitter_status_fmt">Twitter User: %s</string>
+    <string name="twitter_title_text">Twitter Login</string>
+
+    <string name="firebaseui_status_fmt">Firebase User: %s</string>
+    <string name="firebaseui_title_text">FirebaseUI Auth</string>
+
+    <string name="generic_title_text">OAuth Sign In</string>
+    <string name="generic_signin_fmt">Sign In with %s</string>
+    <string name="generic_status_fmt">User: %s (%s)</string>
+    <string name="generic_label_provider">Provider:</string>
+
+    <string name="id_fmt">User ID: %s</string>
+    <string name="email_fmt">Email: %s</string>
+
+    <string name="custom_auth_signin_status_user">User ID: %s</string>
+    <string name="custom_auth_signin_status_failed">Error: sign in failed</string>
+
+    <string name="error_sign_in_failed">Sign in failed, see logs for details.</string>
+    <string name="hi">Hi</string>
+    <string name="search_trip">Search Trips</string>
+    <string name="discover_tr">Discover Trips</string>
+    <string name="signUpText">Haven\'t any account?</string>
+    <string name="SignUp"><u>SignUp</u></string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Gender">Gender</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="select_Image">Select Image</string>
+    <string name="Sign_Up">Sign Up</string>
+    <string name="Create_New_Trip">Create New Trip</string>
+    <string name="First_Name">First Name:</string>
+    <string name="Last_Name">Last Name:</string>
+    <string name="Save">Save</string>
+    <string name="Title">Title</string>
+    <string name="Location">Location</string>
+    <string name="ADD_TRIP">ADD TRIP</string>
+    <string name="title_activity_create_trip_map">Create a Trip</string>
+    <string name="Check">Check</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Go_to_Trip_Chat">Go to Trip Chat</string>
+    <string name="Add_User">Add User</string>
+    <string name="Place">Place</string>
+    <string name="Created_By">Created By</string>
+    <string name="Join">Join</string>
+    <string name="RemoveTrip">Remove Trip</string>
+
+
+    <string name="user">Logged User</string>
+    <string name="input">Type message to send...</string>
+    <string name="email_login">Email</string>
+    <string name="login_email">Email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gender">Gender :</string>
+    <string name="emailid">Email :</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="save_changes">Save Changes</string>
+</resources>
